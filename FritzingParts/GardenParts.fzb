@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Custom1.png">
+    <title>GardenParts</title>
+    <instances>
+        <instance moduleIdRef="41f4209de2050129a62e62f6e2389ac4" modelIndex="85418450" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/DHT11_Temperature_and_Humitidy_Sensor__c8d8589d35f4e2e6529ca1ed6d818736.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="65e31feff426e0dde13a0544d0f93a7d" modelIndex="85418452" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/DHT22_Humidity_and_Temperature_Sensor__5a66c01a9adead9b6c488a2653070fb3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="richardbruneau00000_9d7b159e5644c6d05d1c16bcdd72bef2_9" modelIndex="85418454" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/richardbruneau00000_9d7b159e5644c6d05d1c16bcdd72bef2_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="richardbruneau00000_3ce74d9234c049105c21cf655ddef8e7_6" modelIndex="85418456" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/richardbruneau00000_3ce74d9234c049105c21cf655ddef8e7_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microview_954a7bbed8d5aacd9d0c8ac6705882e8_1" modelIndex="85418816" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/microview_954a7bbed8d5aacd9d0c8ac6705882e8_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OLED Display I2C 128x64_161aaf50af25f49b6ca45bf76e726a23_3" modelIndex="85418821" path="C:/Users/peredniks/AppData/Roaming/Fritzing/parts/user/OLED Display I2C 128x64_161aaf50af25f49b6ca45bf76e726a23_3.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
